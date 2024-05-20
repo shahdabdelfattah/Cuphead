@@ -1,0 +1,1018 @@
+﻿  source.cpp
+D:\Vs\Main_Menu\Main_Menu\source.cpp(121,43): warning C4244: 'initializing': conversion from 'T' to 'float', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(121,43): warning C4244:         with
+D:\Vs\Main_Menu\Main_Menu\source.cpp(121,43): warning C4244:         [
+D:\Vs\Main_Menu\Main_Menu\source.cpp(121,43): warning C4244:             T=unsigned int
+D:\Vs\Main_Menu\Main_Menu\source.cpp(121,43): warning C4244:         ]
+D:\Vs\Main_Menu\Main_Menu\source.cpp(121,25): warning C4244: 'initializing': conversion from 'T' to 'const float', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(121,25): warning C4244:         with
+D:\Vs\Main_Menu\Main_Menu\source.cpp(121,25): warning C4244:         [
+D:\Vs\Main_Menu\Main_Menu\source.cpp(121,25): warning C4244:             T=unsigned int
+D:\Vs\Main_Menu\Main_Menu\source.cpp(121,25): warning C4244:         ]
+D:\Vs\Main_Menu\Main_Menu\source.cpp(122,43): warning C4244: 'initializing': conversion from 'T' to 'float', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(122,43): warning C4244:         with
+D:\Vs\Main_Menu\Main_Menu\source.cpp(122,43): warning C4244:         [
+D:\Vs\Main_Menu\Main_Menu\source.cpp(122,43): warning C4244:             T=unsigned int
+D:\Vs\Main_Menu\Main_Menu\source.cpp(122,43): warning C4244:         ]
+D:\Vs\Main_Menu\Main_Menu\source.cpp(122,25): warning C4244: 'initializing': conversion from 'T' to 'const float', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(122,25): warning C4244:         with
+D:\Vs\Main_Menu\Main_Menu\source.cpp(122,25): warning C4244:         [
+D:\Vs\Main_Menu\Main_Menu\source.cpp(122,25): warning C4244:             T=unsigned int
+D:\Vs\Main_Menu\Main_Menu\source.cpp(122,25): warning C4244:         ]
+D:\Vs\Main_Menu\Main_Menu\source.cpp(127,48): warning C4244: 'initializing': conversion from 'T' to 'float', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(127,48): warning C4244:         with
+D:\Vs\Main_Menu\Main_Menu\source.cpp(127,48): warning C4244:         [
+D:\Vs\Main_Menu\Main_Menu\source.cpp(127,48): warning C4244:             T=unsigned int
+D:\Vs\Main_Menu\Main_Menu\source.cpp(127,48): warning C4244:         ]
+D:\Vs\Main_Menu\Main_Menu\source.cpp(127,27): warning C4244: 'initializing': conversion from 'T' to 'const float', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(127,27): warning C4244:         with
+D:\Vs\Main_Menu\Main_Menu\source.cpp(127,27): warning C4244:         [
+D:\Vs\Main_Menu\Main_Menu\source.cpp(127,27): warning C4244:             T=unsigned int
+D:\Vs\Main_Menu\Main_Menu\source.cpp(127,27): warning C4244:         ]
+D:\Vs\Main_Menu\Main_Menu\source.cpp(168,39): warning C4244: '=': conversion from 'float' to 'T', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(168,39): warning C4244:         with
+D:\Vs\Main_Menu\Main_Menu\source.cpp(168,39): warning C4244:         [
+D:\Vs\Main_Menu\Main_Menu\source.cpp(168,39): warning C4244:             T=int
+D:\Vs\Main_Menu\Main_Menu\source.cpp(168,39): warning C4244:         ]
+D:\Vs\Main_Menu\Main_Menu\source.cpp(170,27): warning C4244: '=': conversion from 'float' to 'T', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(170,27): warning C4244:         with
+D:\Vs\Main_Menu\Main_Menu\source.cpp(170,27): warning C4244:         [
+D:\Vs\Main_Menu\Main_Menu\source.cpp(170,27): warning C4244:             T=int
+D:\Vs\Main_Menu\Main_Menu\source.cpp(170,27): warning C4244:         ]
+D:\Vs\Main_Menu\Main_Menu\source.cpp(222,40): warning C4244: '=': conversion from 'float' to 'T', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(222,40): warning C4244:         with
+D:\Vs\Main_Menu\Main_Menu\source.cpp(222,40): warning C4244:         [
+D:\Vs\Main_Menu\Main_Menu\source.cpp(222,40): warning C4244:             T=int
+D:\Vs\Main_Menu\Main_Menu\source.cpp(222,40): warning C4244:         ]
+D:\Vs\Main_Menu\Main_Menu\source.cpp(224,26): warning C4244: '=': conversion from 'float' to 'T', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(224,26): warning C4244:         with
+D:\Vs\Main_Menu\Main_Menu\source.cpp(224,26): warning C4244:         [
+D:\Vs\Main_Menu\Main_Menu\source.cpp(224,26): warning C4244:             T=int
+D:\Vs\Main_Menu\Main_Menu\source.cpp(224,26): warning C4244:         ]
+D:\Vs\Main_Menu\Main_Menu\source.cpp(244,1): warning C4305: '+=': truncation from 'double' to 'float'
+D:\Vs\Main_Menu\Main_Menu\source.cpp(301,40): warning C4244: '=': conversion from 'float' to 'T', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(301,40): warning C4244:         with
+D:\Vs\Main_Menu\Main_Menu\source.cpp(301,40): warning C4244:         [
+D:\Vs\Main_Menu\Main_Menu\source.cpp(301,40): warning C4244:             T=int
+D:\Vs\Main_Menu\Main_Menu\source.cpp(301,40): warning C4244:         ]
+D:\Vs\Main_Menu\Main_Menu\source.cpp(303,26): warning C4244: '=': conversion from 'float' to 'T', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(303,26): warning C4244:         with
+D:\Vs\Main_Menu\Main_Menu\source.cpp(303,26): warning C4244:         [
+D:\Vs\Main_Menu\Main_Menu\source.cpp(303,26): warning C4244:             T=int
+D:\Vs\Main_Menu\Main_Menu\source.cpp(303,26): warning C4244:         ]
+D:\Vs\Main_Menu\Main_Menu\source.cpp(318,31): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Vs\Main_Menu\Main_Menu\source.cpp(318,26): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Vs\Main_Menu\Main_Menu\source.cpp(324,34): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Vs\Main_Menu\Main_Menu\source.cpp(324,29): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Vs\Main_Menu\Main_Menu\source.cpp(332,113): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Vs\Main_Menu\Main_Menu\source.cpp(338,29): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Vs\Main_Menu\Main_Menu\source.cpp(338,24): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Vs\Main_Menu\Main_Menu\source.cpp(347,34): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(347,24): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(352,41): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(352,22): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(357,49): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(357,30): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(360,28): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Vs\Main_Menu\Main_Menu\source.cpp(360,23): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Vs\Main_Menu\Main_Menu\source.cpp(370,54): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(370,37): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(375,58): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(375,40): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(381,49): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(381,37): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(393,30): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Vs\Main_Menu\Main_Menu\source.cpp(393,25): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Vs\Main_Menu\Main_Menu\source.cpp(410,1): warning C4305: '+=': truncation from 'double' to 'float'
+D:\Vs\Main_Menu\Main_Menu\source.cpp(412,1): warning C4305: '-=': truncation from 'double' to 'float'
+D:\Vs\Main_Menu\Main_Menu\source.cpp(483,1): warning C4305: '+=': truncation from 'double' to 'float'
+D:\Vs\Main_Menu\Main_Menu\source.cpp(581,40): warning C4244: '=': conversion from 'float' to 'T', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(581,40): warning C4244:         with
+D:\Vs\Main_Menu\Main_Menu\source.cpp(581,40): warning C4244:         [
+D:\Vs\Main_Menu\Main_Menu\source.cpp(581,40): warning C4244:             T=int
+D:\Vs\Main_Menu\Main_Menu\source.cpp(581,40): warning C4244:         ]
+D:\Vs\Main_Menu\Main_Menu\source.cpp(583,26): warning C4244: '=': conversion from 'float' to 'T', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(583,26): warning C4244:         with
+D:\Vs\Main_Menu\Main_Menu\source.cpp(583,26): warning C4244:         [
+D:\Vs\Main_Menu\Main_Menu\source.cpp(583,26): warning C4244:             T=int
+D:\Vs\Main_Menu\Main_Menu\source.cpp(583,26): warning C4244:         ]
+D:\Vs\Main_Menu\Main_Menu\source.cpp(591,26): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Vs\Main_Menu\Main_Menu\source.cpp(591,21): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Vs\Main_Menu\Main_Menu\source.cpp(593,56): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(603,58): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(605,52): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(617,56): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(638,40): warning C4244: '=': conversion from 'float' to 'T', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(638,40): warning C4244:         with
+D:\Vs\Main_Menu\Main_Menu\source.cpp(638,40): warning C4244:         [
+D:\Vs\Main_Menu\Main_Menu\source.cpp(638,40): warning C4244:             T=int
+D:\Vs\Main_Menu\Main_Menu\source.cpp(638,40): warning C4244:         ]
+D:\Vs\Main_Menu\Main_Menu\source.cpp(642,27): warning C4244: '+=': conversion from 'float' to 'T', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(642,27): warning C4244:         with
+D:\Vs\Main_Menu\Main_Menu\source.cpp(642,27): warning C4244:         [
+D:\Vs\Main_Menu\Main_Menu\source.cpp(642,27): warning C4244:             T=int
+D:\Vs\Main_Menu\Main_Menu\source.cpp(642,27): warning C4244:         ]
+D:\Vs\Main_Menu\Main_Menu\source.cpp(645,26): warning C4244: '=': conversion from 'float' to 'T', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(645,26): warning C4244:         with
+D:\Vs\Main_Menu\Main_Menu\source.cpp(645,26): warning C4244:         [
+D:\Vs\Main_Menu\Main_Menu\source.cpp(645,26): warning C4244:             T=int
+D:\Vs\Main_Menu\Main_Menu\source.cpp(645,26): warning C4244:         ]
+D:\Vs\Main_Menu\Main_Menu\source.cpp(651,109): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(651,109): warning C4244:         with
+D:\Vs\Main_Menu\Main_Menu\source.cpp(651,109): warning C4244:         [
+D:\Vs\Main_Menu\Main_Menu\source.cpp(651,109): warning C4244:             T=unsigned int
+D:\Vs\Main_Menu\Main_Menu\source.cpp(651,109): warning C4244:         ]
+D:\Vs\Main_Menu\Main_Menu\source.cpp(651,52): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(651,52): warning C4244:         with
+D:\Vs\Main_Menu\Main_Menu\source.cpp(651,52): warning C4244:         [
+D:\Vs\Main_Menu\Main_Menu\source.cpp(651,52): warning C4244:             T=unsigned int
+D:\Vs\Main_Menu\Main_Menu\source.cpp(651,52): warning C4244:         ]
+D:\Vs\Main_Menu\Main_Menu\source.cpp(668,1): warning C4305: '+=': truncation from 'double' to 'float'
+D:\Vs\Main_Menu\Main_Menu\source.cpp(689,33): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Vs\Main_Menu\Main_Menu\source.cpp(689,28): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Vs\Main_Menu\Main_Menu\source.cpp(759,29): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Vs\Main_Menu\Main_Menu\source.cpp(759,24): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Vs\Main_Menu\Main_Menu\source.cpp(777,39): warning C4244: '=': conversion from 'float' to 'T', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(777,39): warning C4244:         with
+D:\Vs\Main_Menu\Main_Menu\source.cpp(777,39): warning C4244:         [
+D:\Vs\Main_Menu\Main_Menu\source.cpp(777,39): warning C4244:             T=int
+D:\Vs\Main_Menu\Main_Menu\source.cpp(777,39): warning C4244:         ]
+D:\Vs\Main_Menu\Main_Menu\source.cpp(779,27): warning C4244: '=': conversion from 'float' to 'T', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(779,27): warning C4244:         with
+D:\Vs\Main_Menu\Main_Menu\source.cpp(779,27): warning C4244:         [
+D:\Vs\Main_Menu\Main_Menu\source.cpp(779,27): warning C4244:             T=int
+D:\Vs\Main_Menu\Main_Menu\source.cpp(779,27): warning C4244:         ]
+D:\Vs\Main_Menu\Main_Menu\source.cpp(797,56): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(797,49): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(797,49): warning C4244:         with
+D:\Vs\Main_Menu\Main_Menu\source.cpp(797,49): warning C4244:         [
+D:\Vs\Main_Menu\Main_Menu\source.cpp(797,49): warning C4244:             T=unsigned int
+D:\Vs\Main_Menu\Main_Menu\source.cpp(797,49): warning C4244:         ]
+D:\Vs\Main_Menu\Main_Menu\source.cpp(802,25): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Vs\Main_Menu\Main_Menu\source.cpp(802,20): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Vs\Main_Menu\Main_Menu\source.cpp(808,1): warning C4305: '+=': truncation from 'double' to 'float'
+D:\Vs\Main_Menu\Main_Menu\source.cpp(856,61): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(856,55): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(856,49): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(885,63): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(885,57): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(885,51): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(899,61): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(899,56): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(899,51): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(913,61): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(913,56): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(913,51): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(928,61): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(928,56): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(928,51): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(943,61): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(943,56): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(943,51): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(958,61): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(958,56): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(958,51): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(973,61): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(973,56): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(973,51): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(988,61): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(988,56): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(988,51): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(1003,61): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(1003,56): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(1003,51): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(1018,61): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(1018,56): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(1018,51): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(1033,61): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(1033,56): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(1033,51): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(1048,61): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(1048,56): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(1048,51): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(1063,61): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(1063,56): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(1063,51): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(1079,61): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(1079,56): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(1079,51): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(1094,61): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(1094,56): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(1094,51): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(1110,61): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(1110,56): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(1110,51): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(1125,61): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(1125,56): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(1125,51): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(1138,63): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(1138,57): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(1138,51): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(1164,16): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Vs\Main_Menu\Main_Menu\source.cpp(1164,37): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Vs\Main_Menu\Main_Menu\source.cpp(1170,40): warning C4244: '=': conversion from 'float' to 'T', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(1170,40): warning C4244:         with
+D:\Vs\Main_Menu\Main_Menu\source.cpp(1170,40): warning C4244:         [
+D:\Vs\Main_Menu\Main_Menu\source.cpp(1170,40): warning C4244:             T=int
+D:\Vs\Main_Menu\Main_Menu\source.cpp(1170,40): warning C4244:         ]
+D:\Vs\Main_Menu\Main_Menu\source.cpp(1174,27): warning C4244: '+=': conversion from 'float' to 'T', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(1174,27): warning C4244:         with
+D:\Vs\Main_Menu\Main_Menu\source.cpp(1174,27): warning C4244:         [
+D:\Vs\Main_Menu\Main_Menu\source.cpp(1174,27): warning C4244:             T=int
+D:\Vs\Main_Menu\Main_Menu\source.cpp(1174,27): warning C4244:         ]
+D:\Vs\Main_Menu\Main_Menu\source.cpp(1177,26): warning C4244: '=': conversion from 'float' to 'T', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(1177,26): warning C4244:         with
+D:\Vs\Main_Menu\Main_Menu\source.cpp(1177,26): warning C4244:         [
+D:\Vs\Main_Menu\Main_Menu\source.cpp(1177,26): warning C4244:             T=int
+D:\Vs\Main_Menu\Main_Menu\source.cpp(1177,26): warning C4244:         ]
+D:\Vs\Main_Menu\Main_Menu\source.cpp(1184,40): warning C4244: '=': conversion from 'float' to 'T', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(1184,40): warning C4244:         with
+D:\Vs\Main_Menu\Main_Menu\source.cpp(1184,40): warning C4244:         [
+D:\Vs\Main_Menu\Main_Menu\source.cpp(1184,40): warning C4244:             T=int
+D:\Vs\Main_Menu\Main_Menu\source.cpp(1184,40): warning C4244:         ]
+D:\Vs\Main_Menu\Main_Menu\source.cpp(1186,26): warning C4244: '=': conversion from 'float' to 'T', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(1186,26): warning C4244:         with
+D:\Vs\Main_Menu\Main_Menu\source.cpp(1186,26): warning C4244:         [
+D:\Vs\Main_Menu\Main_Menu\source.cpp(1186,26): warning C4244:             T=int
+D:\Vs\Main_Menu\Main_Menu\source.cpp(1186,26): warning C4244:         ]
+D:\Vs\Main_Menu\Main_Menu\source.cpp(1194,32): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Vs\Main_Menu\Main_Menu\source.cpp(1194,26): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Vs\Main_Menu\Main_Menu\source.cpp(1198,11): warning C4305: '=': truncation from 'double' to 'float'
+D:\Vs\Main_Menu\Main_Menu\source.cpp(1326,35): warning C4244: '=': conversion from 'float' to 'T', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(1326,35): warning C4244:         with
+D:\Vs\Main_Menu\Main_Menu\source.cpp(1326,35): warning C4244:         [
+D:\Vs\Main_Menu\Main_Menu\source.cpp(1326,35): warning C4244:             T=int
+D:\Vs\Main_Menu\Main_Menu\source.cpp(1326,35): warning C4244:         ]
+D:\Vs\Main_Menu\Main_Menu\source.cpp(1327,34): warning C4244: '=': conversion from 'float' to 'T', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(1327,34): warning C4244:         with
+D:\Vs\Main_Menu\Main_Menu\source.cpp(1327,34): warning C4244:         [
+D:\Vs\Main_Menu\Main_Menu\source.cpp(1327,34): warning C4244:             T=int
+D:\Vs\Main_Menu\Main_Menu\source.cpp(1327,34): warning C4244:         ]
+D:\Vs\Main_Menu\Main_Menu\source.cpp(1328,26): warning C4244: '=': conversion from 'float' to 'T', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(1328,26): warning C4244:         with
+D:\Vs\Main_Menu\Main_Menu\source.cpp(1328,26): warning C4244:         [
+D:\Vs\Main_Menu\Main_Menu\source.cpp(1328,26): warning C4244:             T=int
+D:\Vs\Main_Menu\Main_Menu\source.cpp(1328,26): warning C4244:         ]
+D:\Vs\Main_Menu\Main_Menu\source.cpp(1329,27): warning C4244: '=': conversion from 'float' to 'T', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(1329,27): warning C4244:         with
+D:\Vs\Main_Menu\Main_Menu\source.cpp(1329,27): warning C4244:         [
+D:\Vs\Main_Menu\Main_Menu\source.cpp(1329,27): warning C4244:             T=int
+D:\Vs\Main_Menu\Main_Menu\source.cpp(1329,27): warning C4244:         ]
+D:\Vs\Main_Menu\Main_Menu\source.cpp(1348,30): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Vs\Main_Menu\Main_Menu\source.cpp(1348,24): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Vs\Main_Menu\Main_Menu\source.cpp(1353,29): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Vs\Main_Menu\Main_Menu\source.cpp(1353,24): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Vs\Main_Menu\Main_Menu\source.cpp(1361,1): warning C4305: '+=': truncation from 'double' to 'float'
+D:\Vs\Main_Menu\Main_Menu\source.cpp(1388,31): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Vs\Main_Menu\Main_Menu\source.cpp(1388,26): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Vs\Main_Menu\Main_Menu\source.cpp(1395,84): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(1415,40): warning C4244: '=': conversion from 'float' to 'T', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(1415,40): warning C4244:         with
+D:\Vs\Main_Menu\Main_Menu\source.cpp(1415,40): warning C4244:         [
+D:\Vs\Main_Menu\Main_Menu\source.cpp(1415,40): warning C4244:             T=int
+D:\Vs\Main_Menu\Main_Menu\source.cpp(1415,40): warning C4244:         ]
+D:\Vs\Main_Menu\Main_Menu\source.cpp(1417,26): warning C4244: '=': conversion from 'float' to 'T', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(1417,26): warning C4244:         with
+D:\Vs\Main_Menu\Main_Menu\source.cpp(1417,26): warning C4244:         [
+D:\Vs\Main_Menu\Main_Menu\source.cpp(1417,26): warning C4244:             T=int
+D:\Vs\Main_Menu\Main_Menu\source.cpp(1417,26): warning C4244:         ]
+D:\Vs\Main_Menu\Main_Menu\source.cpp(1426,29): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Vs\Main_Menu\Main_Menu\source.cpp(1426,24): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Vs\Main_Menu\Main_Menu\source.cpp(1436,34): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Vs\Main_Menu\Main_Menu\source.cpp(1436,28): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Vs\Main_Menu\Main_Menu\source.cpp(1440,30): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Vs\Main_Menu\Main_Menu\source.cpp(1440,24): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Vs\Main_Menu\Main_Menu\source.cpp(1449,58): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(1477,40): warning C4244: '=': conversion from 'float' to 'T', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(1477,40): warning C4244:         with
+D:\Vs\Main_Menu\Main_Menu\source.cpp(1477,40): warning C4244:         [
+D:\Vs\Main_Menu\Main_Menu\source.cpp(1477,40): warning C4244:             T=int
+D:\Vs\Main_Menu\Main_Menu\source.cpp(1477,40): warning C4244:         ]
+D:\Vs\Main_Menu\Main_Menu\source.cpp(1479,26): warning C4244: '=': conversion from 'float' to 'T', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(1479,26): warning C4244:         with
+D:\Vs\Main_Menu\Main_Menu\source.cpp(1479,26): warning C4244:         [
+D:\Vs\Main_Menu\Main_Menu\source.cpp(1479,26): warning C4244:             T=int
+D:\Vs\Main_Menu\Main_Menu\source.cpp(1479,26): warning C4244:         ]
+D:\Vs\Main_Menu\Main_Menu\source.cpp(1487,23): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Vs\Main_Menu\Main_Menu\source.cpp(1487,18): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Vs\Main_Menu\Main_Menu\source.cpp(1504,1): warning C4305: '+=': truncation from 'double' to 'float'
+D:\Vs\Main_Menu\Main_Menu\source.cpp(1506,1): warning C4305: '-=': truncation from 'double' to 'float'
+D:\Vs\Main_Menu\Main_Menu\source.cpp(1514,1): warning C4305: '+=': truncation from 'double' to 'float'
+D:\Vs\Main_Menu\Main_Menu\source.cpp(1548,24): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Vs\Main_Menu\Main_Menu\source.cpp(1548,19): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Vs\Main_Menu\Main_Menu\source.cpp(1554,35): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(1619,40): warning C4244: '=': conversion from 'float' to 'T', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(1619,40): warning C4244:         with
+D:\Vs\Main_Menu\Main_Menu\source.cpp(1619,40): warning C4244:         [
+D:\Vs\Main_Menu\Main_Menu\source.cpp(1619,40): warning C4244:             T=int
+D:\Vs\Main_Menu\Main_Menu\source.cpp(1619,40): warning C4244:         ]
+D:\Vs\Main_Menu\Main_Menu\source.cpp(1621,26): warning C4244: '=': conversion from 'float' to 'T', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(1621,26): warning C4244:         with
+D:\Vs\Main_Menu\Main_Menu\source.cpp(1621,26): warning C4244:         [
+D:\Vs\Main_Menu\Main_Menu\source.cpp(1621,26): warning C4244:             T=int
+D:\Vs\Main_Menu\Main_Menu\source.cpp(1621,26): warning C4244:         ]
+D:\Vs\Main_Menu\Main_Menu\source.cpp(1666,1): warning C4305: '+=': truncation from 'double' to 'float'
+D:\Vs\Main_Menu\Main_Menu\source.cpp(1726,60): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(1726,54): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(1726,49): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(1776,40): warning C4244: '=': conversion from 'float' to 'T', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(1776,40): warning C4244:         with
+D:\Vs\Main_Menu\Main_Menu\source.cpp(1776,40): warning C4244:         [
+D:\Vs\Main_Menu\Main_Menu\source.cpp(1776,40): warning C4244:             T=int
+D:\Vs\Main_Menu\Main_Menu\source.cpp(1776,40): warning C4244:         ]
+D:\Vs\Main_Menu\Main_Menu\source.cpp(1778,26): warning C4244: '=': conversion from 'float' to 'T', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(1778,26): warning C4244:         with
+D:\Vs\Main_Menu\Main_Menu\source.cpp(1778,26): warning C4244:         [
+D:\Vs\Main_Menu\Main_Menu\source.cpp(1778,26): warning C4244:             T=int
+D:\Vs\Main_Menu\Main_Menu\source.cpp(1778,26): warning C4244:         ]
+D:\Vs\Main_Menu\Main_Menu\source.cpp(1811,1): warning C4305: '+=': truncation from 'double' to 'float'
+D:\Vs\Main_Menu\Main_Menu\source.cpp(1834,1): warning C4305: '+=': truncation from 'double' to 'float'
+D:\Vs\Main_Menu\Main_Menu\source.cpp(1862,46): warning C4244: '=': conversion from 'float' to 'T', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(1862,46): warning C4244:         with
+D:\Vs\Main_Menu\Main_Menu\source.cpp(1862,46): warning C4244:         [
+D:\Vs\Main_Menu\Main_Menu\source.cpp(1862,46): warning C4244:             T=int
+D:\Vs\Main_Menu\Main_Menu\source.cpp(1862,46): warning C4244:         ]
+D:\Vs\Main_Menu\Main_Menu\source.cpp(1863,47): warning C4244: '=': conversion from 'float' to 'T', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(1863,47): warning C4244:         with
+D:\Vs\Main_Menu\Main_Menu\source.cpp(1863,47): warning C4244:         [
+D:\Vs\Main_Menu\Main_Menu\source.cpp(1863,47): warning C4244:             T=int
+D:\Vs\Main_Menu\Main_Menu\source.cpp(1863,47): warning C4244:         ]
+D:\Vs\Main_Menu\Main_Menu\source.cpp(1874,47): warning C4244: '=': conversion from 'float' to 'T', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(1874,47): warning C4244:         with
+D:\Vs\Main_Menu\Main_Menu\source.cpp(1874,47): warning C4244:         [
+D:\Vs\Main_Menu\Main_Menu\source.cpp(1874,47): warning C4244:             T=int
+D:\Vs\Main_Menu\Main_Menu\source.cpp(1874,47): warning C4244:         ]
+D:\Vs\Main_Menu\Main_Menu\source.cpp(1894,29): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Vs\Main_Menu\Main_Menu\source.cpp(1894,24): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Vs\Main_Menu\Main_Menu\source.cpp(1941,29): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Vs\Main_Menu\Main_Menu\source.cpp(1941,24): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Vs\Main_Menu\Main_Menu\source.cpp(1988,29): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Vs\Main_Menu\Main_Menu\source.cpp(1988,24): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Vs\Main_Menu\Main_Menu\source.cpp(2028,27): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Vs\Main_Menu\Main_Menu\source.cpp(2028,22): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Vs\Main_Menu\Main_Menu\source.cpp(2108,40): warning C4244: '=': conversion from 'float' to 'T', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(2108,40): warning C4244:         with
+D:\Vs\Main_Menu\Main_Menu\source.cpp(2108,40): warning C4244:         [
+D:\Vs\Main_Menu\Main_Menu\source.cpp(2108,40): warning C4244:             T=int
+D:\Vs\Main_Menu\Main_Menu\source.cpp(2108,40): warning C4244:         ]
+D:\Vs\Main_Menu\Main_Menu\source.cpp(2112,27): warning C4244: '+=': conversion from 'float' to 'T', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(2112,27): warning C4244:         with
+D:\Vs\Main_Menu\Main_Menu\source.cpp(2112,27): warning C4244:         [
+D:\Vs\Main_Menu\Main_Menu\source.cpp(2112,27): warning C4244:             T=int
+D:\Vs\Main_Menu\Main_Menu\source.cpp(2112,27): warning C4244:         ]
+D:\Vs\Main_Menu\Main_Menu\source.cpp(2115,26): warning C4244: '=': conversion from 'float' to 'T', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(2115,26): warning C4244:         with
+D:\Vs\Main_Menu\Main_Menu\source.cpp(2115,26): warning C4244:         [
+D:\Vs\Main_Menu\Main_Menu\source.cpp(2115,26): warning C4244:             T=int
+D:\Vs\Main_Menu\Main_Menu\source.cpp(2115,26): warning C4244:         ]
+D:\Vs\Main_Menu\Main_Menu\source.cpp(2122,40): warning C4244: '=': conversion from 'float' to 'T', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(2122,40): warning C4244:         with
+D:\Vs\Main_Menu\Main_Menu\source.cpp(2122,40): warning C4244:         [
+D:\Vs\Main_Menu\Main_Menu\source.cpp(2122,40): warning C4244:             T=int
+D:\Vs\Main_Menu\Main_Menu\source.cpp(2122,40): warning C4244:         ]
+D:\Vs\Main_Menu\Main_Menu\source.cpp(2124,26): warning C4244: '=': conversion from 'float' to 'T', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(2124,26): warning C4244:         with
+D:\Vs\Main_Menu\Main_Menu\source.cpp(2124,26): warning C4244:         [
+D:\Vs\Main_Menu\Main_Menu\source.cpp(2124,26): warning C4244:             T=int
+D:\Vs\Main_Menu\Main_Menu\source.cpp(2124,26): warning C4244:         ]
+D:\Vs\Main_Menu\Main_Menu\source.cpp(2134,47): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(2135,30): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Vs\Main_Menu\Main_Menu\source.cpp(2135,25): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Vs\Main_Menu\Main_Menu\source.cpp(2195,1): warning C4305: '+=': truncation from 'double' to 'float'
+D:\Vs\Main_Menu\Main_Menu\source.cpp(2322,44): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Vs\Main_Menu\Main_Menu\source.cpp(2322,39): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Vs\Main_Menu\Main_Menu\source.cpp(2372,30): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Vs\Main_Menu\Main_Menu\source.cpp(2372,25): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Vs\Main_Menu\Main_Menu\source.cpp(2400,1): warning C4305: '+=': truncation from 'double' to 'float'
+D:\Vs\Main_Menu\Main_Menu\source.cpp(2402,1): warning C4305: '-=': truncation from 'double' to 'float'
+D:\Vs\Main_Menu\Main_Menu\source.cpp(2410,1): warning C4305: '+=': truncation from 'double' to 'float'
+D:\Vs\Main_Menu\Main_Menu\source.cpp(2411,31): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Vs\Main_Menu\Main_Menu\source.cpp(2411,26): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Vs\Main_Menu\Main_Menu\source.cpp(2448,1): warning C4305: '+=': truncation from 'double' to 'float'
+D:\Vs\Main_Menu\Main_Menu\source.cpp(2458,43): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Vs\Main_Menu\Main_Menu\source.cpp(2458,38): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Vs\Main_Menu\Main_Menu\source.cpp(2459,1): warning C4305: '+=': truncation from 'double' to 'float'
+D:\Vs\Main_Menu\Main_Menu\source.cpp(2532,35): warning C4244: '=': conversion from 'float' to 'T', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(2532,35): warning C4244:         with
+D:\Vs\Main_Menu\Main_Menu\source.cpp(2532,35): warning C4244:         [
+D:\Vs\Main_Menu\Main_Menu\source.cpp(2532,35): warning C4244:             T=int
+D:\Vs\Main_Menu\Main_Menu\source.cpp(2532,35): warning C4244:         ]
+D:\Vs\Main_Menu\Main_Menu\source.cpp(2533,34): warning C4244: '=': conversion from 'float' to 'T', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(2533,34): warning C4244:         with
+D:\Vs\Main_Menu\Main_Menu\source.cpp(2533,34): warning C4244:         [
+D:\Vs\Main_Menu\Main_Menu\source.cpp(2533,34): warning C4244:             T=int
+D:\Vs\Main_Menu\Main_Menu\source.cpp(2533,34): warning C4244:         ]
+D:\Vs\Main_Menu\Main_Menu\source.cpp(2534,26): warning C4244: '=': conversion from 'float' to 'T', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(2534,26): warning C4244:         with
+D:\Vs\Main_Menu\Main_Menu\source.cpp(2534,26): warning C4244:         [
+D:\Vs\Main_Menu\Main_Menu\source.cpp(2534,26): warning C4244:             T=int
+D:\Vs\Main_Menu\Main_Menu\source.cpp(2534,26): warning C4244:         ]
+D:\Vs\Main_Menu\Main_Menu\source.cpp(2535,27): warning C4244: '=': conversion from 'float' to 'T', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(2535,27): warning C4244:         with
+D:\Vs\Main_Menu\Main_Menu\source.cpp(2535,27): warning C4244:         [
+D:\Vs\Main_Menu\Main_Menu\source.cpp(2535,27): warning C4244:             T=int
+D:\Vs\Main_Menu\Main_Menu\source.cpp(2535,27): warning C4244:         ]
+D:\Vs\Main_Menu\Main_Menu\source.cpp(2549,127): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(2549,71): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(2563,127): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(2563,71): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(2573,124): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(2573,68): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(2575,124): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(2575,68): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(2585,122): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(2585,66): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(2591,127): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(2591,71): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(2600,127): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(2600,71): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(2607,26): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Vs\Main_Menu\Main_Menu\source.cpp(2607,21): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Vs\Main_Menu\Main_Menu\source.cpp(2610,26): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Vs\Main_Menu\Main_Menu\source.cpp(2610,21): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Vs\Main_Menu\Main_Menu\source.cpp(2618,1): warning C4305: '+=': truncation from 'double' to 'float'
+D:\Vs\Main_Menu\Main_Menu\source.cpp(2632,1): warning C4305: '-=': truncation from 'double' to 'float'
+D:\Vs\Main_Menu\Main_Menu\source.cpp(2650,19): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(2652,43): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(2652,43): warning C4244:         with
+D:\Vs\Main_Menu\Main_Menu\source.cpp(2652,43): warning C4244:         [
+D:\Vs\Main_Menu\Main_Menu\source.cpp(2652,43): warning C4244:             T=unsigned int
+D:\Vs\Main_Menu\Main_Menu\source.cpp(2652,43): warning C4244:         ]
+D:\Vs\Main_Menu\Main_Menu\source.cpp(2715,24): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(2744,35): warning C4244: '=': conversion from 'float' to 'T', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(2744,35): warning C4244:         with
+D:\Vs\Main_Menu\Main_Menu\source.cpp(2744,35): warning C4244:         [
+D:\Vs\Main_Menu\Main_Menu\source.cpp(2744,35): warning C4244:             T=int
+D:\Vs\Main_Menu\Main_Menu\source.cpp(2744,35): warning C4244:         ]
+D:\Vs\Main_Menu\Main_Menu\source.cpp(2745,34): warning C4244: '=': conversion from 'float' to 'T', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(2745,34): warning C4244:         with
+D:\Vs\Main_Menu\Main_Menu\source.cpp(2745,34): warning C4244:         [
+D:\Vs\Main_Menu\Main_Menu\source.cpp(2745,34): warning C4244:             T=int
+D:\Vs\Main_Menu\Main_Menu\source.cpp(2745,34): warning C4244:         ]
+D:\Vs\Main_Menu\Main_Menu\source.cpp(2746,26): warning C4244: '=': conversion from 'float' to 'T', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(2746,26): warning C4244:         with
+D:\Vs\Main_Menu\Main_Menu\source.cpp(2746,26): warning C4244:         [
+D:\Vs\Main_Menu\Main_Menu\source.cpp(2746,26): warning C4244:             T=int
+D:\Vs\Main_Menu\Main_Menu\source.cpp(2746,26): warning C4244:         ]
+D:\Vs\Main_Menu\Main_Menu\source.cpp(2747,27): warning C4244: '=': conversion from 'float' to 'T', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(2747,27): warning C4244:         with
+D:\Vs\Main_Menu\Main_Menu\source.cpp(2747,27): warning C4244:         [
+D:\Vs\Main_Menu\Main_Menu\source.cpp(2747,27): warning C4244:             T=int
+D:\Vs\Main_Menu\Main_Menu\source.cpp(2747,27): warning C4244:         ]
+D:\Vs\Main_Menu\Main_Menu\source.cpp(2753,40): warning C4244: '=': conversion from 'float' to 'T', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(2753,40): warning C4244:         with
+D:\Vs\Main_Menu\Main_Menu\source.cpp(2753,40): warning C4244:         [
+D:\Vs\Main_Menu\Main_Menu\source.cpp(2753,40): warning C4244:             T=int
+D:\Vs\Main_Menu\Main_Menu\source.cpp(2753,40): warning C4244:         ]
+D:\Vs\Main_Menu\Main_Menu\source.cpp(2755,26): warning C4244: '=': conversion from 'float' to 'T', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(2755,26): warning C4244:         with
+D:\Vs\Main_Menu\Main_Menu\source.cpp(2755,26): warning C4244:         [
+D:\Vs\Main_Menu\Main_Menu\source.cpp(2755,26): warning C4244:             T=int
+D:\Vs\Main_Menu\Main_Menu\source.cpp(2755,26): warning C4244:         ]
+D:\Vs\Main_Menu\Main_Menu\source.cpp(2910,1): warning C4305: '+=': truncation from 'double' to 'float'
+D:\Vs\Main_Menu\Main_Menu\source.cpp(2931,1): warning C4305: '+=': truncation from 'double' to 'float'
+D:\Vs\Main_Menu\Main_Menu\source.cpp(2968,59): warning C4244: '=': conversion from 'sf::Int32' to 'float', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(2991,25): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Vs\Main_Menu\Main_Menu\source.cpp(2991,20): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Vs\Main_Menu\Main_Menu\source.cpp(2994,1): warning C4305: '+=': truncation from 'double' to 'float'
+D:\Vs\Main_Menu\Main_Menu\source.cpp(3015,24): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Vs\Main_Menu\Main_Menu\source.cpp(3015,19): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Vs\Main_Menu\Main_Menu\source.cpp(3018,1): warning C4305: '+=': truncation from 'double' to 'float'
+D:\Vs\Main_Menu\Main_Menu\source.cpp(3039,24): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Vs\Main_Menu\Main_Menu\source.cpp(3039,19): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Vs\Main_Menu\Main_Menu\source.cpp(3042,1): warning C4305: '+=': truncation from 'double' to 'float'
+D:\Vs\Main_Menu\Main_Menu\source.cpp(3052,38): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Vs\Main_Menu\Main_Menu\source.cpp(3052,33): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Vs\Main_Menu\Main_Menu\source.cpp(3077,24): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Vs\Main_Menu\Main_Menu\source.cpp(3077,19): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Vs\Main_Menu\Main_Menu\source.cpp(3079,1): warning C4305: '+=': truncation from 'double' to 'float'
+D:\Vs\Main_Menu\Main_Menu\source.cpp(3099,59): warning C4244: '=': conversion from 'sf::Int32' to 'float', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(3119,25): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Vs\Main_Menu\Main_Menu\source.cpp(3119,20): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Vs\Main_Menu\Main_Menu\source.cpp(3120,48): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(3122,1): warning C4305: '+=': truncation from 'double' to 'float'
+D:\Vs\Main_Menu\Main_Menu\source.cpp(3144,44): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(3145,1): warning C4305: '+=': truncation from 'double' to 'float'
+D:\Vs\Main_Menu\Main_Menu\source.cpp(3167,81): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(3168,1): warning C4305: '+=': truncation from 'double' to 'float'
+D:\Vs\Main_Menu\Main_Menu\source.cpp(3178,32): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(3178,32): warning C4244:         with
+D:\Vs\Main_Menu\Main_Menu\source.cpp(3178,32): warning C4244:         [
+D:\Vs\Main_Menu\Main_Menu\source.cpp(3178,32): warning C4244:             T=unsigned int
+D:\Vs\Main_Menu\Main_Menu\source.cpp(3178,32): warning C4244:         ]
+D:\Vs\Main_Menu\Main_Menu\source.cpp(3180,32): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(3180,32): warning C4244:         with
+D:\Vs\Main_Menu\Main_Menu\source.cpp(3180,32): warning C4244:         [
+D:\Vs\Main_Menu\Main_Menu\source.cpp(3180,32): warning C4244:             T=unsigned int
+D:\Vs\Main_Menu\Main_Menu\source.cpp(3180,32): warning C4244:         ]
+D:\Vs\Main_Menu\Main_Menu\source.cpp(3204,81): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(3205,1): warning C4305: '+=': truncation from 'double' to 'float'
+D:\Vs\Main_Menu\Main_Menu\source.cpp(3213,30): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Vs\Main_Menu\Main_Menu\source.cpp(3213,25): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Vs\Main_Menu\Main_Menu\source.cpp(3245,30): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Vs\Main_Menu\Main_Menu\source.cpp(3245,25): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Vs\Main_Menu\Main_Menu\source.cpp(3261,30): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Vs\Main_Menu\Main_Menu\source.cpp(3261,25): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Vs\Main_Menu\Main_Menu\source.cpp(3277,30): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Vs\Main_Menu\Main_Menu\source.cpp(3277,25): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Vs\Main_Menu\Main_Menu\source.cpp(3310,24): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Vs\Main_Menu\Main_Menu\source.cpp(3310,19): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Vs\Main_Menu\Main_Menu\source.cpp(3313,1): warning C4305: '+=': truncation from 'double' to 'float'
+D:\Vs\Main_Menu\Main_Menu\source.cpp(3315,1): warning C4305: '-=': truncation from 'double' to 'float'
+D:\Vs\Main_Menu\Main_Menu\source.cpp(3375,40): warning C4244: '=': conversion from 'float' to 'T', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(3375,40): warning C4244:         with
+D:\Vs\Main_Menu\Main_Menu\source.cpp(3375,40): warning C4244:         [
+D:\Vs\Main_Menu\Main_Menu\source.cpp(3375,40): warning C4244:             T=int
+D:\Vs\Main_Menu\Main_Menu\source.cpp(3375,40): warning C4244:         ]
+D:\Vs\Main_Menu\Main_Menu\source.cpp(3379,27): warning C4244: '+=': conversion from 'float' to 'T', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(3379,27): warning C4244:         with
+D:\Vs\Main_Menu\Main_Menu\source.cpp(3379,27): warning C4244:         [
+D:\Vs\Main_Menu\Main_Menu\source.cpp(3379,27): warning C4244:             T=int
+D:\Vs\Main_Menu\Main_Menu\source.cpp(3379,27): warning C4244:         ]
+D:\Vs\Main_Menu\Main_Menu\source.cpp(3382,26): warning C4244: '=': conversion from 'float' to 'T', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(3382,26): warning C4244:         with
+D:\Vs\Main_Menu\Main_Menu\source.cpp(3382,26): warning C4244:         [
+D:\Vs\Main_Menu\Main_Menu\source.cpp(3382,26): warning C4244:             T=int
+D:\Vs\Main_Menu\Main_Menu\source.cpp(3382,26): warning C4244:         ]
+D:\Vs\Main_Menu\Main_Menu\source.cpp(3389,40): warning C4244: '=': conversion from 'float' to 'T', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(3389,40): warning C4244:         with
+D:\Vs\Main_Menu\Main_Menu\source.cpp(3389,40): warning C4244:         [
+D:\Vs\Main_Menu\Main_Menu\source.cpp(3389,40): warning C4244:             T=int
+D:\Vs\Main_Menu\Main_Menu\source.cpp(3389,40): warning C4244:         ]
+D:\Vs\Main_Menu\Main_Menu\source.cpp(3391,26): warning C4244: '=': conversion from 'float' to 'T', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(3391,26): warning C4244:         with
+D:\Vs\Main_Menu\Main_Menu\source.cpp(3391,26): warning C4244:         [
+D:\Vs\Main_Menu\Main_Menu\source.cpp(3391,26): warning C4244:             T=int
+D:\Vs\Main_Menu\Main_Menu\source.cpp(3391,26): warning C4244:         ]
+D:\Vs\Main_Menu\Main_Menu\source.cpp(3402,30): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Vs\Main_Menu\Main_Menu\source.cpp(3402,25): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Vs\Main_Menu\Main_Menu\source.cpp(3416,20): warning C4305: '=': truncation from 'double' to 'float'
+D:\Vs\Main_Menu\Main_Menu\source.cpp(3437,11): warning C4305: '=': truncation from 'double' to 'float'
+D:\Vs\Main_Menu\Main_Menu\source.cpp(3460,1): warning C4305: '+=': truncation from 'double' to 'float'
+D:\Vs\Main_Menu\Main_Menu\source.cpp(3593,44): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Vs\Main_Menu\Main_Menu\source.cpp(3593,39): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Vs\Main_Menu\Main_Menu\source.cpp(3695,30): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Vs\Main_Menu\Main_Menu\source.cpp(3695,25): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Vs\Main_Menu\Main_Menu\source.cpp(3728,1): warning C4305: '+=': truncation from 'double' to 'float'
+D:\Vs\Main_Menu\Main_Menu\source.cpp(3730,1): warning C4305: '-=': truncation from 'double' to 'float'
+D:\Vs\Main_Menu\Main_Menu\source.cpp(3739,1): warning C4305: '+=': truncation from 'double' to 'float'
+D:\Vs\Main_Menu\Main_Menu\source.cpp(3741,1): warning C4305: '+=': truncation from 'double' to 'float'
+D:\Vs\Main_Menu\Main_Menu\source.cpp(3742,32): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Vs\Main_Menu\Main_Menu\source.cpp(3742,26): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Vs\Main_Menu\Main_Menu\source.cpp(3799,1): warning C4305: '+=': truncation from 'double' to 'float'
+D:\Vs\Main_Menu\Main_Menu\source.cpp(3809,43): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Vs\Main_Menu\Main_Menu\source.cpp(3809,38): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Vs\Main_Menu\Main_Menu\source.cpp(3810,1): warning C4305: '+=': truncation from 'double' to 'float'
+D:\Vs\Main_Menu\Main_Menu\source.cpp(3866,40): warning C4244: '=': conversion from 'float' to 'T', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(3866,40): warning C4244:         with
+D:\Vs\Main_Menu\Main_Menu\source.cpp(3866,40): warning C4244:         [
+D:\Vs\Main_Menu\Main_Menu\source.cpp(3866,40): warning C4244:             T=int
+D:\Vs\Main_Menu\Main_Menu\source.cpp(3866,40): warning C4244:         ]
+D:\Vs\Main_Menu\Main_Menu\source.cpp(3868,26): warning C4244: '=': conversion from 'float' to 'T', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(3868,26): warning C4244:         with
+D:\Vs\Main_Menu\Main_Menu\source.cpp(3868,26): warning C4244:         [
+D:\Vs\Main_Menu\Main_Menu\source.cpp(3868,26): warning C4244:             T=int
+D:\Vs\Main_Menu\Main_Menu\source.cpp(3868,26): warning C4244:         ]
+D:\Vs\Main_Menu\Main_Menu\source.cpp(3895,29): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Vs\Main_Menu\Main_Menu\source.cpp(3916,35): warning C4244: '=': conversion from 'float' to 'T', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(3916,35): warning C4244:         with
+D:\Vs\Main_Menu\Main_Menu\source.cpp(3916,35): warning C4244:         [
+D:\Vs\Main_Menu\Main_Menu\source.cpp(3916,35): warning C4244:             T=int
+D:\Vs\Main_Menu\Main_Menu\source.cpp(3916,35): warning C4244:         ]
+D:\Vs\Main_Menu\Main_Menu\source.cpp(3917,34): warning C4244: '=': conversion from 'float' to 'T', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(3917,34): warning C4244:         with
+D:\Vs\Main_Menu\Main_Menu\source.cpp(3917,34): warning C4244:         [
+D:\Vs\Main_Menu\Main_Menu\source.cpp(3917,34): warning C4244:             T=int
+D:\Vs\Main_Menu\Main_Menu\source.cpp(3917,34): warning C4244:         ]
+D:\Vs\Main_Menu\Main_Menu\source.cpp(3918,26): warning C4244: '=': conversion from 'float' to 'T', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(3918,26): warning C4244:         with
+D:\Vs\Main_Menu\Main_Menu\source.cpp(3918,26): warning C4244:         [
+D:\Vs\Main_Menu\Main_Menu\source.cpp(3918,26): warning C4244:             T=int
+D:\Vs\Main_Menu\Main_Menu\source.cpp(3918,26): warning C4244:         ]
+D:\Vs\Main_Menu\Main_Menu\source.cpp(3919,27): warning C4244: '=': conversion from 'float' to 'T', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(3919,27): warning C4244:         with
+D:\Vs\Main_Menu\Main_Menu\source.cpp(3919,27): warning C4244:         [
+D:\Vs\Main_Menu\Main_Menu\source.cpp(3919,27): warning C4244:             T=int
+D:\Vs\Main_Menu\Main_Menu\source.cpp(3919,27): warning C4244:         ]
+D:\Vs\Main_Menu\Main_Menu\source.cpp(3926,29): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Vs\Main_Menu\Main_Menu\source.cpp(3926,24): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Vs\Main_Menu\Main_Menu\source.cpp(3927,93): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(3934,1): warning C4305: '+=': truncation from 'double' to 'float'
+D:\Vs\Main_Menu\Main_Menu\source.cpp(3963,40): warning C4244: '=': conversion from 'float' to 'T', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(3963,40): warning C4244:         with
+D:\Vs\Main_Menu\Main_Menu\source.cpp(3963,40): warning C4244:         [
+D:\Vs\Main_Menu\Main_Menu\source.cpp(3963,40): warning C4244:             T=int
+D:\Vs\Main_Menu\Main_Menu\source.cpp(3963,40): warning C4244:         ]
+D:\Vs\Main_Menu\Main_Menu\source.cpp(3965,26): warning C4244: '=': conversion from 'float' to 'T', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(3965,26): warning C4244:         with
+D:\Vs\Main_Menu\Main_Menu\source.cpp(3965,26): warning C4244:         [
+D:\Vs\Main_Menu\Main_Menu\source.cpp(3965,26): warning C4244:             T=int
+D:\Vs\Main_Menu\Main_Menu\source.cpp(3965,26): warning C4244:         ]
+D:\Vs\Main_Menu\Main_Menu\source.cpp(3973,12): warning C4305: '=': truncation from 'double' to 'float'
+D:\Vs\Main_Menu\Main_Menu\source.cpp(3986,1): warning C4305: '+=': truncation from 'double' to 'float'
+D:\Vs\Main_Menu\Main_Menu\source.cpp(3992,1): warning C4305: '-=': truncation from 'double' to 'float'
+D:\Vs\Main_Menu\Main_Menu\source.cpp(3999,1): warning C4305: '+=': truncation from 'double' to 'float'
+D:\Vs\Main_Menu\Main_Menu\source.cpp(4028,18): warning C4244: 'initializing': conversion from 'const T' to 'int', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(4028,18): warning C4244:         with
+D:\Vs\Main_Menu\Main_Menu\source.cpp(4028,18): warning C4244:         [
+D:\Vs\Main_Menu\Main_Menu\source.cpp(4028,18): warning C4244:             T=float
+D:\Vs\Main_Menu\Main_Menu\source.cpp(4028,18): warning C4244:         ]
+D:\Vs\Main_Menu\Main_Menu\source.cpp(4029,18): warning C4244: 'initializing': conversion from 'const T' to 'int', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(4029,18): warning C4244:         with
+D:\Vs\Main_Menu\Main_Menu\source.cpp(4029,18): warning C4244:         [
+D:\Vs\Main_Menu\Main_Menu\source.cpp(4029,18): warning C4244:             T=float
+D:\Vs\Main_Menu\Main_Menu\source.cpp(4029,18): warning C4244:         ]
+D:\Vs\Main_Menu\Main_Menu\source.cpp(4056,74): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(4056,36): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(4058,74): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(4058,36): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(4060,74): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(4060,36): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(4074,59): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(4082,59): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(4090,59): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(4102,24): warning C4305: '=': truncation from 'double' to 'float'
+D:\Vs\Main_Menu\Main_Menu\source.cpp(4128,40): warning C4244: '=': conversion from 'float' to 'T', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(4128,40): warning C4244:         with
+D:\Vs\Main_Menu\Main_Menu\source.cpp(4128,40): warning C4244:         [
+D:\Vs\Main_Menu\Main_Menu\source.cpp(4128,40): warning C4244:             T=int
+D:\Vs\Main_Menu\Main_Menu\source.cpp(4128,40): warning C4244:         ]
+D:\Vs\Main_Menu\Main_Menu\source.cpp(4130,26): warning C4244: '=': conversion from 'float' to 'T', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(4130,26): warning C4244:         with
+D:\Vs\Main_Menu\Main_Menu\source.cpp(4130,26): warning C4244:         [
+D:\Vs\Main_Menu\Main_Menu\source.cpp(4130,26): warning C4244:             T=int
+D:\Vs\Main_Menu\Main_Menu\source.cpp(4130,26): warning C4244:         ]
+D:\Vs\Main_Menu\Main_Menu\source.cpp(4137,68): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(4179,40): warning C4244: '=': conversion from 'float' to 'T', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(4179,40): warning C4244:         with
+D:\Vs\Main_Menu\Main_Menu\source.cpp(4179,40): warning C4244:         [
+D:\Vs\Main_Menu\Main_Menu\source.cpp(4179,40): warning C4244:             T=int
+D:\Vs\Main_Menu\Main_Menu\source.cpp(4179,40): warning C4244:         ]
+D:\Vs\Main_Menu\Main_Menu\source.cpp(4181,26): warning C4244: '=': conversion from 'float' to 'T', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(4181,26): warning C4244:         with
+D:\Vs\Main_Menu\Main_Menu\source.cpp(4181,26): warning C4244:         [
+D:\Vs\Main_Menu\Main_Menu\source.cpp(4181,26): warning C4244:             T=int
+D:\Vs\Main_Menu\Main_Menu\source.cpp(4181,26): warning C4244:         ]
+D:\Vs\Main_Menu\Main_Menu\source.cpp(4189,68): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(4191,30): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Vs\Main_Menu\Main_Menu\source.cpp(4191,25): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Vs\Main_Menu\Main_Menu\source.cpp(4192,58): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(4209,53): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(4234,40): warning C4244: '=': conversion from 'float' to 'T', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(4234,40): warning C4244:         with
+D:\Vs\Main_Menu\Main_Menu\source.cpp(4234,40): warning C4244:         [
+D:\Vs\Main_Menu\Main_Menu\source.cpp(4234,40): warning C4244:             T=int
+D:\Vs\Main_Menu\Main_Menu\source.cpp(4234,40): warning C4244:         ]
+D:\Vs\Main_Menu\Main_Menu\source.cpp(4236,26): warning C4244: '=': conversion from 'float' to 'T', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(4236,26): warning C4244:         with
+D:\Vs\Main_Menu\Main_Menu\source.cpp(4236,26): warning C4244:         [
+D:\Vs\Main_Menu\Main_Menu\source.cpp(4236,26): warning C4244:             T=int
+D:\Vs\Main_Menu\Main_Menu\source.cpp(4236,26): warning C4244:         ]
+D:\Vs\Main_Menu\Main_Menu\source.cpp(4244,12): warning C4305: '=': truncation from 'double' to 'float'
+D:\Vs\Main_Menu\Main_Menu\source.cpp(4247,32): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Vs\Main_Menu\Main_Menu\source.cpp(4247,27): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Vs\Main_Menu\Main_Menu\source.cpp(4259,1): warning C4305: '+=': truncation from 'double' to 'float'
+D:\Vs\Main_Menu\Main_Menu\source.cpp(4275,1): warning C4305: '-=': truncation from 'double' to 'float'
+D:\Vs\Main_Menu\Main_Menu\source.cpp(4277,1): warning C4305: '+=': truncation from 'double' to 'float'
+D:\Vs\Main_Menu\Main_Menu\source.cpp(4298,40): warning C4244: '=': conversion from 'float' to 'T', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(4298,40): warning C4244:         with
+D:\Vs\Main_Menu\Main_Menu\source.cpp(4298,40): warning C4244:         [
+D:\Vs\Main_Menu\Main_Menu\source.cpp(4298,40): warning C4244:             T=int
+D:\Vs\Main_Menu\Main_Menu\source.cpp(4298,40): warning C4244:         ]
+D:\Vs\Main_Menu\Main_Menu\source.cpp(4300,26): warning C4244: '=': conversion from 'float' to 'T', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(4300,26): warning C4244:         with
+D:\Vs\Main_Menu\Main_Menu\source.cpp(4300,26): warning C4244:         [
+D:\Vs\Main_Menu\Main_Menu\source.cpp(4300,26): warning C4244:             T=int
+D:\Vs\Main_Menu\Main_Menu\source.cpp(4300,26): warning C4244:         ]
+D:\Vs\Main_Menu\Main_Menu\source.cpp(4310,28): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Vs\Main_Menu\Main_Menu\source.cpp(4310,23): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Vs\Main_Menu\Main_Menu\source.cpp(4321,1): warning C4305: '+=': truncation from 'double' to 'float'
+D:\Vs\Main_Menu\Main_Menu\source.cpp(4342,40): warning C4244: '=': conversion from 'float' to 'T', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(4342,40): warning C4244:         with
+D:\Vs\Main_Menu\Main_Menu\source.cpp(4342,40): warning C4244:         [
+D:\Vs\Main_Menu\Main_Menu\source.cpp(4342,40): warning C4244:             T=int
+D:\Vs\Main_Menu\Main_Menu\source.cpp(4342,40): warning C4244:         ]
+D:\Vs\Main_Menu\Main_Menu\source.cpp(4344,26): warning C4244: '=': conversion from 'float' to 'T', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(4344,26): warning C4244:         with
+D:\Vs\Main_Menu\Main_Menu\source.cpp(4344,26): warning C4244:         [
+D:\Vs\Main_Menu\Main_Menu\source.cpp(4344,26): warning C4244:             T=int
+D:\Vs\Main_Menu\Main_Menu\source.cpp(4344,26): warning C4244:         ]
+D:\Vs\Main_Menu\Main_Menu\source.cpp(4352,34): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Vs\Main_Menu\Main_Menu\source.cpp(4352,29): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Vs\Main_Menu\Main_Menu\source.cpp(4359,1): warning C4305: '+=': truncation from 'double' to 'float'
+D:\Vs\Main_Menu\Main_Menu\source.cpp(4424,40): warning C4244: '=': conversion from 'float' to 'T', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(4424,40): warning C4244:         with
+D:\Vs\Main_Menu\Main_Menu\source.cpp(4424,40): warning C4244:         [
+D:\Vs\Main_Menu\Main_Menu\source.cpp(4424,40): warning C4244:             T=int
+D:\Vs\Main_Menu\Main_Menu\source.cpp(4424,40): warning C4244:         ]
+D:\Vs\Main_Menu\Main_Menu\source.cpp(4426,26): warning C4244: '=': conversion from 'float' to 'T', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(4426,26): warning C4244:         with
+D:\Vs\Main_Menu\Main_Menu\source.cpp(4426,26): warning C4244:         [
+D:\Vs\Main_Menu\Main_Menu\source.cpp(4426,26): warning C4244:             T=int
+D:\Vs\Main_Menu\Main_Menu\source.cpp(4426,26): warning C4244:         ]
+D:\Vs\Main_Menu\Main_Menu\source.cpp(4434,35): warning C4244: '=': conversion from 'float' to 'T', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(4434,35): warning C4244:         with
+D:\Vs\Main_Menu\Main_Menu\source.cpp(4434,35): warning C4244:         [
+D:\Vs\Main_Menu\Main_Menu\source.cpp(4434,35): warning C4244:             T=int
+D:\Vs\Main_Menu\Main_Menu\source.cpp(4434,35): warning C4244:         ]
+D:\Vs\Main_Menu\Main_Menu\source.cpp(4435,34): warning C4244: '=': conversion from 'float' to 'T', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(4435,34): warning C4244:         with
+D:\Vs\Main_Menu\Main_Menu\source.cpp(4435,34): warning C4244:         [
+D:\Vs\Main_Menu\Main_Menu\source.cpp(4435,34): warning C4244:             T=int
+D:\Vs\Main_Menu\Main_Menu\source.cpp(4435,34): warning C4244:         ]
+D:\Vs\Main_Menu\Main_Menu\source.cpp(4436,26): warning C4244: '=': conversion from 'float' to 'T', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(4436,26): warning C4244:         with
+D:\Vs\Main_Menu\Main_Menu\source.cpp(4436,26): warning C4244:         [
+D:\Vs\Main_Menu\Main_Menu\source.cpp(4436,26): warning C4244:             T=int
+D:\Vs\Main_Menu\Main_Menu\source.cpp(4436,26): warning C4244:         ]
+D:\Vs\Main_Menu\Main_Menu\source.cpp(4437,27): warning C4244: '=': conversion from 'float' to 'T', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(4437,27): warning C4244:         with
+D:\Vs\Main_Menu\Main_Menu\source.cpp(4437,27): warning C4244:         [
+D:\Vs\Main_Menu\Main_Menu\source.cpp(4437,27): warning C4244:             T=int
+D:\Vs\Main_Menu\Main_Menu\source.cpp(4437,27): warning C4244:         ]
+D:\Vs\Main_Menu\Main_Menu\source.cpp(4521,1): warning C4305: '+=': truncation from 'double' to 'float'
+D:\Vs\Main_Menu\Main_Menu\source.cpp(4534,1): warning C4305: '+=': truncation from 'double' to 'float'
+D:\Vs\Main_Menu\Main_Menu\source.cpp(4545,1): warning C4305: '+=': truncation from 'double' to 'float'
+D:\Vs\Main_Menu\Main_Menu\source.cpp(4562,1): warning C4305: '+=': truncation from 'double' to 'float'
+D:\Vs\Main_Menu\Main_Menu\source.cpp(4655,37): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(4656,37): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(4664,22): warning C4244: 'initializing': conversion from 'sf::Int32' to 'float', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(4797,30): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Vs\Main_Menu\Main_Menu\source.cpp(4797,25): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Vs\Main_Menu\Main_Menu\source.cpp(4825,40): warning C4244: '=': conversion from 'float' to 'T', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(4825,40): warning C4244:         with
+D:\Vs\Main_Menu\Main_Menu\source.cpp(4825,40): warning C4244:         [
+D:\Vs\Main_Menu\Main_Menu\source.cpp(4825,40): warning C4244:             T=int
+D:\Vs\Main_Menu\Main_Menu\source.cpp(4825,40): warning C4244:         ]
+D:\Vs\Main_Menu\Main_Menu\source.cpp(4827,26): warning C4244: '=': conversion from 'float' to 'T', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(4827,26): warning C4244:         with
+D:\Vs\Main_Menu\Main_Menu\source.cpp(4827,26): warning C4244:         [
+D:\Vs\Main_Menu\Main_Menu\source.cpp(4827,26): warning C4244:             T=int
+D:\Vs\Main_Menu\Main_Menu\source.cpp(4827,26): warning C4244:         ]
+D:\Vs\Main_Menu\Main_Menu\source.cpp(4834,29): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Vs\Main_Menu\Main_Menu\source.cpp(4834,24): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Vs\Main_Menu\Main_Menu\source.cpp(4844,1): warning C4305: '+=': truncation from 'double' to 'float'
+D:\Vs\Main_Menu\Main_Menu\source.cpp(4862,67): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Vs\Main_Menu\Main_Menu\source.cpp(4874,40): warning C4244: '=': conversion from 'float' to 'T', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(4874,40): warning C4244:         with
+D:\Vs\Main_Menu\Main_Menu\source.cpp(4874,40): warning C4244:         [
+D:\Vs\Main_Menu\Main_Menu\source.cpp(4874,40): warning C4244:             T=int
+D:\Vs\Main_Menu\Main_Menu\source.cpp(4874,40): warning C4244:         ]
+D:\Vs\Main_Menu\Main_Menu\source.cpp(4876,26): warning C4244: '=': conversion from 'float' to 'T', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(4876,26): warning C4244:         with
+D:\Vs\Main_Menu\Main_Menu\source.cpp(4876,26): warning C4244:         [
+D:\Vs\Main_Menu\Main_Menu\source.cpp(4876,26): warning C4244:             T=int
+D:\Vs\Main_Menu\Main_Menu\source.cpp(4876,26): warning C4244:         ]
+D:\Vs\Main_Menu\Main_Menu\source.cpp(4885,29): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Vs\Main_Menu\Main_Menu\source.cpp(4885,24): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Vs\Main_Menu\Main_Menu\source.cpp(4902,1): warning C4305: '+=': truncation from 'double' to 'float'
+D:\Vs\Main_Menu\Main_Menu\source.cpp(4913,17): warning C4244: '=': conversion from 'long double' to 'float', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(5021,39): warning C4244: '=': conversion from 'float' to 'T', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(5021,39): warning C4244:         with
+D:\Vs\Main_Menu\Main_Menu\source.cpp(5021,39): warning C4244:         [
+D:\Vs\Main_Menu\Main_Menu\source.cpp(5021,39): warning C4244:             T=int
+D:\Vs\Main_Menu\Main_Menu\source.cpp(5021,39): warning C4244:         ]
+D:\Vs\Main_Menu\Main_Menu\source.cpp(5023,27): warning C4244: '=': conversion from 'float' to 'T', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(5023,27): warning C4244:         with
+D:\Vs\Main_Menu\Main_Menu\source.cpp(5023,27): warning C4244:         [
+D:\Vs\Main_Menu\Main_Menu\source.cpp(5023,27): warning C4244:             T=int
+D:\Vs\Main_Menu\Main_Menu\source.cpp(5023,27): warning C4244:         ]
+D:\Vs\Main_Menu\Main_Menu\source.cpp(5032,1): warning C4305: '-=': truncation from 'double' to 'float'
+D:\Vs\Main_Menu\Main_Menu\source.cpp(5037,1): warning C4305: '+=': truncation from 'double' to 'float'
+D:\Vs\Main_Menu\Main_Menu\source.cpp(5040,1): warning C4305: '+=': truncation from 'double' to 'float'
+D:\Vs\Main_Menu\Main_Menu\source.cpp(5075,40): warning C4244: '=': conversion from 'float' to 'T', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(5075,40): warning C4244:         with
+D:\Vs\Main_Menu\Main_Menu\source.cpp(5075,40): warning C4244:         [
+D:\Vs\Main_Menu\Main_Menu\source.cpp(5075,40): warning C4244:             T=int
+D:\Vs\Main_Menu\Main_Menu\source.cpp(5075,40): warning C4244:         ]
+D:\Vs\Main_Menu\Main_Menu\source.cpp(5077,26): warning C4244: '=': conversion from 'float' to 'T', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(5077,26): warning C4244:         with
+D:\Vs\Main_Menu\Main_Menu\source.cpp(5077,26): warning C4244:         [
+D:\Vs\Main_Menu\Main_Menu\source.cpp(5077,26): warning C4244:             T=int
+D:\Vs\Main_Menu\Main_Menu\source.cpp(5077,26): warning C4244:         ]
+D:\Vs\Main_Menu\Main_Menu\source.cpp(5084,1): warning C4305: '+=': truncation from 'double' to 'float'
+D:\Vs\Main_Menu\Main_Menu\source.cpp(5093,1): warning C4305: '+=': truncation from 'double' to 'float'
+D:\Vs\Main_Menu\Main_Menu\source.cpp(5154,24): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Vs\Main_Menu\Main_Menu\source.cpp(5154,19): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Vs\Main_Menu\Main_Menu\source.cpp(5170,45): warning C4244: 'initializing': conversion from 'const T' to 'int', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(5170,45): warning C4244:         with
+D:\Vs\Main_Menu\Main_Menu\source.cpp(5170,45): warning C4244:         [
+D:\Vs\Main_Menu\Main_Menu\source.cpp(5170,45): warning C4244:             T=float
+D:\Vs\Main_Menu\Main_Menu\source.cpp(5170,45): warning C4244:         ]
+D:\Vs\Main_Menu\Main_Menu\source.cpp(5171,45): warning C4244: 'initializing': conversion from 'const T' to 'int', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(5171,45): warning C4244:         with
+D:\Vs\Main_Menu\Main_Menu\source.cpp(5171,45): warning C4244:         [
+D:\Vs\Main_Menu\Main_Menu\source.cpp(5171,45): warning C4244:             T=float
+D:\Vs\Main_Menu\Main_Menu\source.cpp(5171,45): warning C4244:         ]
+D:\Vs\Main_Menu\Main_Menu\source.cpp(5193,40): warning C4244: '=': conversion from 'float' to 'T', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(5193,40): warning C4244:         with
+D:\Vs\Main_Menu\Main_Menu\source.cpp(5193,40): warning C4244:         [
+D:\Vs\Main_Menu\Main_Menu\source.cpp(5193,40): warning C4244:             T=int
+D:\Vs\Main_Menu\Main_Menu\source.cpp(5193,40): warning C4244:         ]
+D:\Vs\Main_Menu\Main_Menu\source.cpp(5195,26): warning C4244: '=': conversion from 'float' to 'T', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(5195,26): warning C4244:         with
+D:\Vs\Main_Menu\Main_Menu\source.cpp(5195,26): warning C4244:         [
+D:\Vs\Main_Menu\Main_Menu\source.cpp(5195,26): warning C4244:             T=int
+D:\Vs\Main_Menu\Main_Menu\source.cpp(5195,26): warning C4244:         ]
+D:\Vs\Main_Menu\Main_Menu\source.cpp(5203,35): warning C4244: '=': conversion from 'float' to 'T', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(5203,35): warning C4244:         with
+D:\Vs\Main_Menu\Main_Menu\source.cpp(5203,35): warning C4244:         [
+D:\Vs\Main_Menu\Main_Menu\source.cpp(5203,35): warning C4244:             T=int
+D:\Vs\Main_Menu\Main_Menu\source.cpp(5203,35): warning C4244:         ]
+D:\Vs\Main_Menu\Main_Menu\source.cpp(5204,34): warning C4244: '=': conversion from 'float' to 'T', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(5204,34): warning C4244:         with
+D:\Vs\Main_Menu\Main_Menu\source.cpp(5204,34): warning C4244:         [
+D:\Vs\Main_Menu\Main_Menu\source.cpp(5204,34): warning C4244:             T=int
+D:\Vs\Main_Menu\Main_Menu\source.cpp(5204,34): warning C4244:         ]
+D:\Vs\Main_Menu\Main_Menu\source.cpp(5205,26): warning C4244: '=': conversion from 'float' to 'T', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(5205,26): warning C4244:         with
+D:\Vs\Main_Menu\Main_Menu\source.cpp(5205,26): warning C4244:         [
+D:\Vs\Main_Menu\Main_Menu\source.cpp(5205,26): warning C4244:             T=int
+D:\Vs\Main_Menu\Main_Menu\source.cpp(5205,26): warning C4244:         ]
+D:\Vs\Main_Menu\Main_Menu\source.cpp(5206,27): warning C4244: '=': conversion from 'float' to 'T', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(5206,27): warning C4244:         with
+D:\Vs\Main_Menu\Main_Menu\source.cpp(5206,27): warning C4244:         [
+D:\Vs\Main_Menu\Main_Menu\source.cpp(5206,27): warning C4244:             T=int
+D:\Vs\Main_Menu\Main_Menu\source.cpp(5206,27): warning C4244:         ]
+D:\Vs\Main_Menu\Main_Menu\source.cpp(5213,39): warning C4244: '=': conversion from 'float' to 'T', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(5213,39): warning C4244:         with
+D:\Vs\Main_Menu\Main_Menu\source.cpp(5213,39): warning C4244:         [
+D:\Vs\Main_Menu\Main_Menu\source.cpp(5213,39): warning C4244:             T=int
+D:\Vs\Main_Menu\Main_Menu\source.cpp(5213,39): warning C4244:         ]
+D:\Vs\Main_Menu\Main_Menu\source.cpp(5215,27): warning C4244: '=': conversion from 'float' to 'T', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(5215,27): warning C4244:         with
+D:\Vs\Main_Menu\Main_Menu\source.cpp(5215,27): warning C4244:         [
+D:\Vs\Main_Menu\Main_Menu\source.cpp(5215,27): warning C4244:             T=int
+D:\Vs\Main_Menu\Main_Menu\source.cpp(5215,27): warning C4244:         ]
+D:\Vs\Main_Menu\Main_Menu\source.cpp(5245,1): warning C4305: '+=': truncation from 'double' to 'float'
+D:\Vs\Main_Menu\Main_Menu\source.cpp(5254,1): warning C4305: '+=': truncation from 'double' to 'float'
+D:\Vs\Main_Menu\Main_Menu\source.cpp(5277,1): warning C4305: '+=': truncation from 'double' to 'float'
+D:\Vs\Main_Menu\Main_Menu\source.cpp(5359,28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(5359,21): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(5441,30): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Vs\Main_Menu\Main_Menu\source.cpp(5441,25): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Vs\Main_Menu\Main_Menu\source.cpp(5480,40): warning C4244: '=': conversion from 'float' to 'T', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(5480,40): warning C4244:         with
+D:\Vs\Main_Menu\Main_Menu\source.cpp(5480,40): warning C4244:         [
+D:\Vs\Main_Menu\Main_Menu\source.cpp(5480,40): warning C4244:             T=int
+D:\Vs\Main_Menu\Main_Menu\source.cpp(5480,40): warning C4244:         ]
+D:\Vs\Main_Menu\Main_Menu\source.cpp(5482,26): warning C4244: '=': conversion from 'float' to 'T', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(5482,26): warning C4244:         with
+D:\Vs\Main_Menu\Main_Menu\source.cpp(5482,26): warning C4244:         [
+D:\Vs\Main_Menu\Main_Menu\source.cpp(5482,26): warning C4244:             T=int
+D:\Vs\Main_Menu\Main_Menu\source.cpp(5482,26): warning C4244:         ]
+D:\Vs\Main_Menu\Main_Menu\source.cpp(5492,30): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Vs\Main_Menu\Main_Menu\source.cpp(5492,25): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Vs\Main_Menu\Main_Menu\source.cpp(5494,32): warning C4305: '=': truncation from 'long double' to 'float'
+D:\Vs\Main_Menu\Main_Menu\source.cpp(5494,53): warning C4305: '=': truncation from 'double' to 'float'
+D:\Vs\Main_Menu\Main_Menu\source.cpp(5515,30): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Vs\Main_Menu\Main_Menu\source.cpp(5515,25): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Vs\Main_Menu\Main_Menu\source.cpp(5522,30): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Vs\Main_Menu\Main_Menu\source.cpp(5522,25): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Vs\Main_Menu\Main_Menu\source.cpp(5530,30): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Vs\Main_Menu\Main_Menu\source.cpp(5530,25): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Vs\Main_Menu\Main_Menu\source.cpp(5537,30): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Vs\Main_Menu\Main_Menu\source.cpp(5537,25): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Vs\Main_Menu\Main_Menu\source.cpp(5541,1): warning C4305: '+=': truncation from 'double' to 'float'
+D:\Vs\Main_Menu\Main_Menu\source.cpp(5547,30): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Vs\Main_Menu\Main_Menu\source.cpp(5547,25): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Vs\Main_Menu\Main_Menu\source.cpp(5551,1): warning C4305: '+=': truncation from 'double' to 'float'
+D:\Vs\Main_Menu\Main_Menu\source.cpp(5603,1): warning C4305: '+=': truncation from 'double' to 'float'
+D:\Vs\Main_Menu\Main_Menu\source.cpp(5651,1): warning C4305: '+=': truncation from 'double' to 'float'
+D:\Vs\Main_Menu\Main_Menu\source.cpp(5660,44): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Vs\Main_Menu\Main_Menu\source.cpp(5660,39): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Vs\Main_Menu\Main_Menu\source.cpp(5661,1): warning C4305: '+=': truncation from 'double' to 'float'
+D:\Vs\Main_Menu\Main_Menu\source.cpp(5719,27): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Vs\Main_Menu\Main_Menu\source.cpp(5719,22): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Vs\Main_Menu\Main_Menu\source.cpp(5728,27): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Vs\Main_Menu\Main_Menu\source.cpp(5728,22): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Vs\Main_Menu\Main_Menu\source.cpp(5752,30): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Vs\Main_Menu\Main_Menu\source.cpp(5752,25): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Vs\Main_Menu\Main_Menu\source.cpp(5761,31): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Vs\Main_Menu\Main_Menu\source.cpp(5761,25): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Vs\Main_Menu\Main_Menu\source.cpp(5781,40): warning C4244: '=': conversion from 'float' to 'T', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(5781,40): warning C4244:         with
+D:\Vs\Main_Menu\Main_Menu\source.cpp(5781,40): warning C4244:         [
+D:\Vs\Main_Menu\Main_Menu\source.cpp(5781,40): warning C4244:             T=int
+D:\Vs\Main_Menu\Main_Menu\source.cpp(5781,40): warning C4244:         ]
+D:\Vs\Main_Menu\Main_Menu\source.cpp(5783,26): warning C4244: '=': conversion from 'float' to 'T', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(5783,26): warning C4244:         with
+D:\Vs\Main_Menu\Main_Menu\source.cpp(5783,26): warning C4244:         [
+D:\Vs\Main_Menu\Main_Menu\source.cpp(5783,26): warning C4244:             T=int
+D:\Vs\Main_Menu\Main_Menu\source.cpp(5783,26): warning C4244:         ]
+D:\Vs\Main_Menu\Main_Menu\source.cpp(5873,30): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Vs\Main_Menu\Main_Menu\source.cpp(5884,40): warning C4244: '=': conversion from 'float' to 'T', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(5884,40): warning C4244:         with
+D:\Vs\Main_Menu\Main_Menu\source.cpp(5884,40): warning C4244:         [
+D:\Vs\Main_Menu\Main_Menu\source.cpp(5884,40): warning C4244:             T=int
+D:\Vs\Main_Menu\Main_Menu\source.cpp(5884,40): warning C4244:         ]
+D:\Vs\Main_Menu\Main_Menu\source.cpp(5886,26): warning C4244: '=': conversion from 'float' to 'T', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(5886,26): warning C4244:         with
+D:\Vs\Main_Menu\Main_Menu\source.cpp(5886,26): warning C4244:         [
+D:\Vs\Main_Menu\Main_Menu\source.cpp(5886,26): warning C4244:             T=int
+D:\Vs\Main_Menu\Main_Menu\source.cpp(5886,26): warning C4244:         ]
+D:\Vs\Main_Menu\Main_Menu\source.cpp(5982,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(5991,69): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(6086,66): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(6086,60): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(6086,55): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(6114,29): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Vs\Main_Menu\Main_Menu\source.cpp(6114,24): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Vs\Main_Menu\Main_Menu\source.cpp(6171,30): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Vs\Main_Menu\Main_Menu\source.cpp(6171,25): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Vs\Main_Menu\Main_Menu\source.cpp(6174,67): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(6174,61): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(6174,56): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(6175,1): warning C4305: '+=': truncation from 'double' to 'float'
+D:\Vs\Main_Menu\Main_Menu\source.cpp(6229,63): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(6265,13): warning C4244: 'initializing': conversion from 'long double' to 'float', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(6266,13): warning C4244: 'initializing': conversion from 'long double' to 'float', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(6276,75): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(6393,30): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Vs\Main_Menu\Main_Menu\source.cpp(6393,25): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Vs\Main_Menu\Main_Menu\source.cpp(6417,30): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Vs\Main_Menu\Main_Menu\source.cpp(6417,25): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Vs\Main_Menu\Main_Menu\source.cpp(6441,30): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Vs\Main_Menu\Main_Menu\source.cpp(6441,25): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Vs\Main_Menu\Main_Menu\source.cpp(6514,40): warning C4244: '=': conversion from 'float' to 'T', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(6514,40): warning C4244:         with
+D:\Vs\Main_Menu\Main_Menu\source.cpp(6514,40): warning C4244:         [
+D:\Vs\Main_Menu\Main_Menu\source.cpp(6514,40): warning C4244:             T=int
+D:\Vs\Main_Menu\Main_Menu\source.cpp(6514,40): warning C4244:         ]
+D:\Vs\Main_Menu\Main_Menu\source.cpp(6516,26): warning C4244: '=': conversion from 'float' to 'T', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(6516,26): warning C4244:         with
+D:\Vs\Main_Menu\Main_Menu\source.cpp(6516,26): warning C4244:         [
+D:\Vs\Main_Menu\Main_Menu\source.cpp(6516,26): warning C4244:             T=int
+D:\Vs\Main_Menu\Main_Menu\source.cpp(6516,26): warning C4244:         ]
+D:\Vs\Main_Menu\Main_Menu\source.cpp(6651,43): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(6656,43): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(6665,45): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(6667,45): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(6694,36): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(6694,36): warning C4244:         with
+D:\Vs\Main_Menu\Main_Menu\source.cpp(6694,36): warning C4244:         [
+D:\Vs\Main_Menu\Main_Menu\source.cpp(6694,36): warning C4244:             T=float
+D:\Vs\Main_Menu\Main_Menu\source.cpp(6694,36): warning C4244:         ]
+D:\Vs\Main_Menu\Main_Menu\source.cpp(6734,41): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(6734,41): warning C4244:         with
+D:\Vs\Main_Menu\Main_Menu\source.cpp(6734,41): warning C4244:         [
+D:\Vs\Main_Menu\Main_Menu\source.cpp(6734,41): warning C4244:             T=float
+D:\Vs\Main_Menu\Main_Menu\source.cpp(6734,41): warning C4244:         ]
+D:\Vs\Main_Menu\Main_Menu\source.cpp(6842,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(7174,27): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Vs\Main_Menu\Main_Menu\source.cpp(7174,22): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Vs\Main_Menu\Main_Menu\source.cpp(7225,32): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Vs\Main_Menu\Main_Menu\source.cpp(7225,27): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Vs\Main_Menu\Main_Menu\source.cpp(7227,144): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(7227,144): warning C4244:         with
+D:\Vs\Main_Menu\Main_Menu\source.cpp(7227,144): warning C4244:         [
+D:\Vs\Main_Menu\Main_Menu\source.cpp(7227,144): warning C4244:             T=unsigned int
+D:\Vs\Main_Menu\Main_Menu\source.cpp(7227,144): warning C4244:         ]
+D:\Vs\Main_Menu\Main_Menu\source.cpp(7227,48): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(7227,48): warning C4244:         with
+D:\Vs\Main_Menu\Main_Menu\source.cpp(7227,48): warning C4244:         [
+D:\Vs\Main_Menu\Main_Menu\source.cpp(7227,48): warning C4244:             T=unsigned int
+D:\Vs\Main_Menu\Main_Menu\source.cpp(7227,48): warning C4244:         ]
+D:\Vs\Main_Menu\Main_Menu\source.cpp(7260,25): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(7261,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(7264,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(7268,25): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(7269,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(7272,24): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(7276,28): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(7277,30): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(7278,54): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(7281,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(7283,53): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(7286,24): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(7299,25): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(7300,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(7303,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(7307,25): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(7308,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(7311,24): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(7315,28): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(7316,30): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(7317,52): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(7320,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(7322,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(7325,24): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(7418,33): warning C4305: 'argument': truncation from 'double' to 'T'
+D:\Vs\Main_Menu\Main_Menu\source.cpp(7418,33): warning C4305:         with
+D:\Vs\Main_Menu\Main_Menu\source.cpp(7418,33): warning C4305:         [
+D:\Vs\Main_Menu\Main_Menu\source.cpp(7418,33): warning C4305:             T=float
+D:\Vs\Main_Menu\Main_Menu\source.cpp(7418,33): warning C4305:         ]
+D:\Vs\Main_Menu\Main_Menu\source.cpp(7613,37): warning C4244: 'initializing': conversion from 'T' to 'float', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(7613,37): warning C4244:         with
+D:\Vs\Main_Menu\Main_Menu\source.cpp(7613,37): warning C4244:         [
+D:\Vs\Main_Menu\Main_Menu\source.cpp(7613,37): warning C4244:             T=unsigned int
+D:\Vs\Main_Menu\Main_Menu\source.cpp(7613,37): warning C4244:         ]
+D:\Vs\Main_Menu\Main_Menu\source.cpp(7613,32): warning C4244: 'initializing': conversion from 'T' to 'const float', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(7613,32): warning C4244:         with
+D:\Vs\Main_Menu\Main_Menu\source.cpp(7613,32): warning C4244:         [
+D:\Vs\Main_Menu\Main_Menu\source.cpp(7613,32): warning C4244:             T=unsigned int
+D:\Vs\Main_Menu\Main_Menu\source.cpp(7613,32): warning C4244:         ]
+D:\Vs\Main_Menu\Main_Menu\source.cpp(7907,74): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(8161,74): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\Vs\Main_Menu\Main_Menu\source.cpp(8457,74): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  Main_Menu.vcxproj -> D:\Vs\Main_Menu\x64\Debug\Main_Menu.exe
